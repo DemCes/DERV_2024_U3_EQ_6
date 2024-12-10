@@ -1,0 +1,21 @@
+# Archivos y carpetas generados por Unity
+Library/
+Temp/
+Logs/
+ObjectStorage/
+Build/
+Builds/
+UserSettings/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de Visual Studio y archivos innecesarios
+*.csproj
+*.sln
+*.userprefs
+.vsconfig
+
+# Archivos de paquetes o dependencias
+Packages/com.unity.package-manager-ui/
